@@ -37,4 +37,4 @@ Project 3 of the DS4002 Project Course
 
 ## Instructions for Reproducing Results
 
-Find the ‘cat-DS4002.zip’ and ‘dogs-DS4002.zip’ files from the data folder. Unzip the files and find the meta.json file and train-test-val split data files. Load the insert name file from the ‘Scripts’ folder and download the necessary packages. Run the file to reproduce the results. 
+Find the `cat-DS4002.zip` and `dogs-DS4002.zip` files from the data folder. Unzip the files and find the meta.json file and train-test-val split data files. Load the python notebook file from the `Scripts` folder and download the necessary packages. Run the file to reproduce the results. 
