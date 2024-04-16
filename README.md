@@ -25,12 +25,13 @@ Project 3 of the DS4002 Project Course
 ## Documentation Map
 ```console
 .
-├── DATA
+├── Data
 │  ├── cats-DS4002.zip
 │  └── dogs-DS4002.zip
+├── Output
 ├── LICENSE
 ├── README.md
-└── SCRIPT
+└── Script
    └── P_and_G_StockInfo.csv
 ```
 
