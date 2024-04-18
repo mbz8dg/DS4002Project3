@@ -27,12 +27,13 @@ Project 3 of the DS4002 Project Course
 .
 ├── Data
 │  ├── cats-DS4002.zip
-│  └── dogs-DS4002.zip
+│  ├── dogs-DS4002.zip
+│  └── Data Appendix.pdf
 ├── Output
 ├── LICENSE
 ├── README.md
 └── Script
-   └── P_and_G_StockInfo.csv
+   └── model.ipynb
 ```
 
 
