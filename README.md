@@ -32,8 +32,9 @@ Project 3 of the DS4002 Project Course
 ├── Output
 │  ├── ModelLossVis.png
 │  ├── plan vis.jpg
-│  ├── Sample cats.jpg
-│  └── Sample dogs.jpg
+│  ├── Sample cats.png
+│  ├── Train-Test Split.png
+│  └── Sample dogs.png
 ├── LICENSE
 ├── README.md
 └── Script
@@ -43,4 +44,4 @@ Project 3 of the DS4002 Project Course
 
 ## Instructions for Reproducing Results
 
-Find the `cat-DS4002.zip` and `dogs-DS4002.zip` files from the data folder. Unzip the files and find the meta.json file and train-test-val split data files. Load the python notebook file from the `Scripts` folder and download the necessary packages. Run the file to reproduce the results. 
+Find the `cat-DS4002.zip` and `dogs-DS4002.zip` files from the data folder. Unzip the files and find the meta.json file and train-test-val split data files. Load the python notebook file from the `Scripts` folder and download the necessary packages. Running the `model.ipynb` will produce all visualizations and analysis results.
