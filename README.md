@@ -8,13 +8,14 @@ Project 3 of the DS4002 Project Course
 
 ### Packages
 
-    - Keras
-    - MatPlotLib
+    - keras
+    - matplotlib
     - PIL
-    - Tensorflow
-    - Math
-    - Numpy
+    - tensorflow
+    - math
+    - numpy
     - os
+    - zipfile
 
 ### Platforms
 
@@ -44,4 +45,4 @@ Project 3 of the DS4002 Project Course
 
 ## Instructions for Reproducing Results
 
-Find the `cat-DS4002.zip` and `dogs-DS4002.zip` files from the data folder. Unzip the files and find the meta.json file and train-test-val split data files. Load the python notebook file from the `Scripts` folder and download the necessary packages. Running the `model.ipynb` will produce all visualizations and analysis results.
+The python notebook file `model.ipynb`  will clone this repo. Download any necessary packages and run the `model.ipynb` file. Executing each code block in order will reproduce these results including all visulaizations found in the `Output` folder. The file works by first loading and unzipping the two data files. Then using Keras, the files are loaded into workable image dataset data types. Then the model is specified to the given data and tested. Comments throughout the file also help explain the process.
