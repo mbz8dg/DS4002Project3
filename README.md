@@ -30,6 +30,10 @@ Project 3 of the DS4002 Project Course
 │  ├── dogs-DS4002.zip
 │  └── Data Appendix.pdf
 ├── Output
+│  ├── ModelLossVis.png
+│  ├── plan vis.jpg
+│  ├── Sample cats.jpg
+│  └── Sample dogs.jpg
 ├── LICENSE
 ├── README.md
 └── Script
